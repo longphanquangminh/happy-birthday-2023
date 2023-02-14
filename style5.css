@@ -4,7 +4,7 @@ body {
     justify-content: center;
     height:100vh;
     background-color: #00bbf9;
-    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
   }
   
   .birthdayCard {
@@ -56,7 +56,7 @@ body {
   .happy, .toyou {
     position: relative;
     /* font-family: didot; */
-    font-family:cursive;
+    /* font-family:cursive; */
     text-align: center;
     backface-visibility: hidden;
     font-size: 30px; 
@@ -73,7 +73,7 @@ body {
   .bday {
     position: relative;
     /* font-family: arial; */
-    font-family:cursive;
+    /* font-family:cursive; */
     font-size: 35px;
     text-align: center;
     top:163px;
@@ -234,7 +234,7 @@ body {
   
   p {
     /* font-family: 'Brush Script MT', cursive; */
-    font-family:cursive;
+    /* font-family:cursive; */
     color: #333;
   }
   
